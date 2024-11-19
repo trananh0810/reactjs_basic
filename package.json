@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^7.5.0",
+    "firebase": "^10.9.0",
     "getmac": "^4.1.0",
     "macaddress": "^0.2.9",
     "react": "^16.12.0",
